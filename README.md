@@ -3,8 +3,11 @@
 ## Evidence #1 - Beginning of universe
 
 Scenario: the year is around 1931. One scientist wrote this in the pretigious journal, Nature: "Philosophically, the notion of a beginning of the present order of Nature is repugnant... I should like to find a genuine loophole"
+
 Q. Why does he say the beginning of the universe is repugnant?
+
 Q. The fact that the universe began - why is that a powerful argument for God?
+
 Q. How do atheist/agnostic scientists explain the beginning?
 
 ## Evidence #2 - Fine Tuning
